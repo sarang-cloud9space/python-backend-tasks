@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "title": "Lunch",
+        "amount": 250.0,
+        "category": "Food",
+        "date": "2026-10-18"
+    },
+    {
+        "id": 2,
+        "title": "Movie",
+        "amount": 300.0,
+        "category": "Entertainment",
+        "date": "2026-10-18"
+    },
+    {
+        "id": 3,
+        "title": "Dinner",
+        "amount": 400.0,
+        "category": "Food",
+        "date": "2026-10-18"
+    },
+    {
+        "id": 4,
+        "title": "Go kart",
+        "amount": 700.0,
+        "category": "Entertainment",
+        "date": "2026-10-18"
+    }
+]
